@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "title": "Sailor Moon",
+    "tomos": 12,
+    "author": "Naoko Takeuchi",
+    "genre": "Shojo, Magical Girl",
+    "descripcion": "Una adolescente obtiene poderes mágicos para luchar contra el mal como una de las guerreras Sailor y proteger la Tierra."
+  },
+  {
+    "id": 2,
+    "title": "Kobayashi-san Chi no Maid Dragon",
+    "tomos": 14,
+    "author": "Coolkyousinnjya",
+    "genre": "Seinen, Comedia, Fantasía",
+    "descripcion": "Una programadora termina viviendo con una dragona que se convierte en su sirvienta, trayendo caos y momentos divertidos a su vida cotidiana."
+  },
+  {
+    "id": 3,
+    "title": "Dragon Ball",
+    "tomos": 70,
+    "author": "Akira Toriyama",
+    "genre": "Shonen, Acción, Aventura",
+    "descripcion": "La historia sigue a Goku, un guerrero con cola de mono, mientras busca las esferas del dragón y enfrenta enemigos poderosos."
+  },
+  {
+    "id": 4,
+    "title": "Vinland Saga",
+    "tomos": 25,
+    "author": "Makoto Yukimura",
+    "genre": "Seinen, Histórico, Acción",
+    "descripcion": "En la era de los vikingos, un joven guerrero busca venganza por la muerte de su padre, enfrentando conflictos internos y bélicos."
+  },
+  {
+    "id": 5,
+    "title": "Komi San",
+    "tomos": 30,
+    "author": "Tomohito Oda",
+    "genre": "Shonen, Comedia, Romance",
+    "descripcion": "Komi es una chica popular con fobia social que intenta hacer 100 amigos con la ayuda de su compañero de clase."
+  },
+  {
+    "id": 6,
+    "title": "Naruto",
+    "tomos": 72,
+    "author": "Masashi Kishimoto",
+    "genre": "Shonen, Acción, Aventura",
+    "descripcion": "Naruto, un joven ninja con un demonio zorro sellado en su interior, sueña con convertirse en el líder de su aldea."
+  },
+  {
+    "id": 7,
+    "title": "One Piece",
+    "tomos": 105,
+    "author": "Eiichiro Oda",
+    "genre": "Shonen, Aventura, Comedia",
+    "descripcion": "Luffy, un joven con poderes de goma, navega con su tripulación en busca del tesoro One Piece para convertirse en el Rey de los Piratas."
+  },
+  {
+    "id": 8,
+    "title": "Bleach",
+    "tomos": 74,
+    "author": "Tite Kubo",
+    "genre": "Shonen, Acción, Fantasía",
+    "descripcion": "Ichigo obtiene poderes de Shinigami y lucha contra espíritus malignos para proteger a los vivos y a las almas perdidas."
+  },
+  {
+    "id": 9,
+    "title": "Fullmetal Alchemist",
+    "tomos": 27,
+    "author": "Hiromu Arakawa",
+    "genre": "Shonen, Aventura, Fantasía",
+    "descripcion": "Dos hermanos alquimistas buscan la piedra filosofal para recuperar sus cuerpos perdidos tras un experimento fallido."
+  },
+  {
+    "id": 10,
+    "title": "My Hero Academia",
+    "tomos": 35,
+    "author": "Kohei Horikoshi",
+    "genre": "Shonen, Acción, Superhéroes",
+    "descripcion": "En un mundo donde todos tienen poderes, un joven sin habilidades recibe el don del héroe número uno y entrena para ser profesional."
+  },
+  {
+    "id": 11,
+    "title": "Tokyo Ghoul",
+    "tomos": 14,
+    "author": "Sui Ishida",
+    "genre": "Seinen, Horror, Acción",
+    "descripcion": "Un estudiante universitario se convierte en mitad ghoul tras un accidente y debe aprender a vivir entre humanos y monstruos que se alimentan de carne."
+  },
+  {
+    "id": 12,
+    "title": "Attack on Titan",
+    "tomos": 34,
+    "author": "Hajime Isayama",
+    "genre": "Shonen, Acción, Fantasía oscura",
+    "descripcion": "La humanidad lucha por sobrevivir contra gigantes devoradores de humanos, mientras descubre los secretos detrás de su mundo."
+  },
+  {
+    "id": 13,
+    "title": "JoJo's Bizarre Adventure",
+    "tomos": 120,
+    "author": "Hirohiko Araki",
+    "genre": "Shonen, Aventura, Acción",
+    "descripcion": "Distintas generaciones de la familia Joestar enfrentan enemigos con poderes sobrenaturales en aventuras extravagantes."
+  },
+  {
+    "id": 14,
+    "title": "Death Note",
+    "tomos": 12,
+    "author": "Tsugumi Ohba",
+    "genre": "Shonen, Suspenso, Psicológico",
+    "descripcion": "Un estudiante brillante encuentra un cuaderno que mata a quien tenga su nombre escrito, y decide usarlo para eliminar a los criminales del mundo."
+  },
+  {
+    "id": 15,
+    "title": "One Punch Man",
+    "tomos": 23,
+    "author": "Yusuke Murata",
+    "genre": "Shonen, Acción, Comedia",
+    "descripcion": "Un héroe calvo puede derrotar a cualquier enemigo con un solo golpe, pero se siente aburrido y busca un rival digno."
+  },
+  {
+    "id": 16,
+    "title": "Demon Slayer",
+    "tomos": 23,
+    "author": "Koyoharu Gotouge",
+    "genre": "Shonen, Acción, Aventura",
+    "descripcion": "Un chico con una espada lucha contra demonios para salvar a su hermana convertida en uno de ellos."
+  },
+  {
+    "id": 17,
+    "title": "Hunter x Hunter",
+    "tomos": 36,
+    "author": "Yoshihiro Togashi",
+    "genre": "Shonen, Aventura, Acción",
+    "descripcion": "Un niño parte en busca de su padre y se convierte en cazador profesional, enfrentando peligros con amigos y habilidades especiales."
+  },
+  {
+    "id": 18,
+    "title": "Dragon Ball Z",
+    "tomos": 42,
+    "author": "Akira Toriyama",
+    "genre": "Shonen, Acción, Aventura",
+    "descripcion": "El poderoso guerrero Saiyajin defiende la Tierra contra enemigos intergalácticos mientras entrena para volverse más fuerte."
+  },
+  {
+    "id": 19,
+    "title": "Fruits Basket",
+    "tomos": 23,
+    "author": "Natsuki Takaya",
+    "genre": "Shojo, Romance, Comedia",
+    "descripcion": "Una chica huérfana vive con una familia que se transforma en animales del zodiaco chino cuando los abrazan del sexo opuesto."
+  },
+  {
+    "id": 20,
+    "title": "Re:Zero",
+    "tomos": 16,
+    "author": "Tappei Nagatsuki",
+    "genre": "Isekai, Acción, Fantasía",
+    "descripcion": "Un joven es transportado a otro mundo y descubre que cada vez que muere, regresa al pasado para intentar cambiar su destino."
+  }
+]
+
+
